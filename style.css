@@ -25,12 +25,14 @@ body{
     
 }
 #Headerlogo{
-    border: solid red;
     color: white;
     font-weight: bold;
-    display: block;
-    padding-top: 100px;
-    float: left;
+    font-size: 20px;
+    display: inline;
+    margin: 0px;
+    
+    
+    
 
     
 }
