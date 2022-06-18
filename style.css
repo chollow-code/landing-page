@@ -16,7 +16,9 @@ Header logo text
 
 
 body{
-    border:solid red;    ;
+    border:solid red; 
+    margin: 0px;
+    padding: 0px;
 }
 .section1{
     background-color: #1f2937;
@@ -24,24 +26,22 @@ body{
     padding: 0 15% 100px 15%;
     
 }
-#Headerlogo{
+#Headerlogo .logo_text{
     color: white;
     font-weight: bold;
     font-size: 20px;
-    display: inline;
-    margin: 0px;
+    display: inline-block;
+    border: solid red;
+    margin-top: 0px 0px 0px 0px;
     
-    
-    
-
-    
+        
 }
 
 .mainheader{
     color: white;
     border: solid red;
     display: inline-block;
-    margin-top: 55px;
+    margin-top: 100px;
     
 }
 
