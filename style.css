@@ -15,7 +15,7 @@ Header logo text
 */
 .section1{
     background-color: #1f2937;
-    
+    padding: 0 15% 0 15%;
     border: 1px;
 }
 #Headerlogo{
@@ -24,10 +24,12 @@ Header logo text
     font-weight: bold;
     display: inline-block;
 }
-#Headerlogo2{
-    border: solid red;
+
+.mainheader{
     color: white;
-    font-weight: bold;
+    border: solid red;
     display: inline-block;
-    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+    
 }
