@@ -16,7 +16,7 @@ Header logo text
 
 
 body{
-    border:solid red; 
+     
     margin: 0px;
     padding: 0px;
 }
@@ -31,8 +31,9 @@ body{
     font-weight: bold;
     font-size: 20px;
     display: inline-block;
-    border: solid red;
+    
     margin-top: 0px 0px 0px 0px;
+    padding-left: 50px;
     
         
 }
@@ -42,13 +43,18 @@ body{
     border: solid red;
     display: inline-block;
     margin-top: 100px;
+    padding-left: 15%;
     
+}
+
+.mainpara{
+    color: #e5e7eb;
 }
 
 .headerlinks{
     color:white;
     font-family: 'Courier New', Courier, monospace;
-    border: solid red;
+    
     float: right;
     font-size: 20px;
     margin: 0 5px 0 5px;
