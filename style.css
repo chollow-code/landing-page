@@ -33,3 +33,11 @@ Header logo text
     margin-right: 50px;
     
 }
+
+.headerlinks{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid red;
+    float: right;
+    font-size: 12px;
+}
