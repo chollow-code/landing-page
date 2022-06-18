@@ -1,7 +1,33 @@
-#header{
-    background-color: #1F2937;
-    color: #F9faf8;
-    display: flex;
-    font-family: Arial, Helvetica, sans-serif;
-    align-items: center;
+/*Notes for me
+Colors and font styles
+dark background color (hero and footer)
+#1F2937
+
+Hero Main text ("this website is awesome")
+48px extra-bold #F9FAF8
+
+Hero secondary text, header link text
+18px #E5E7Eb
+
+Header logo text
+24px #F9FaF8
+
+*/
+.section1{
+    background-color: #1f2937;
+    
+    border: 1px;
+}
+#Headerlogo{
+    border: solid red;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+}
+#Headerlogo2{
+    border: solid red;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    float: right;
 }
