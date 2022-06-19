@@ -54,7 +54,7 @@ body{
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 10%; 
-    margin-left: 145px;
+    margin-left: 45px;
     margin-top: 10px;
 }
 
@@ -64,23 +64,22 @@ body{
     display: inline-block;
     font-weight: bold;
     margin: 100px 0 0 0;
-    padding-left: 15%;
+    padding-left: 5%;
     font-size: xx-large;
 }
 
 .mainpara{
     color: #e5e7eb;
-    padding-left: 15%;
+    padding-left: 5%;
     padding-right: 10%;
     margin: 5px 0 0 0;
     height: auto;
     width: 520px;
+    
 }
 
 .headerlinks{
     color:white;
-    
-    
     float: right;
     font-size: 20px;
     margin: 0 5px 0 5px;
