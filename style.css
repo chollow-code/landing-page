@@ -39,6 +39,15 @@ body{
         
 }
 
+#catmain{
+    margin-left: 800px; 
+    margin-top: -200px;   
+
+}
+    
+
+
+
 .mainheader{
     
     color: white;
@@ -46,15 +55,16 @@ body{
     font-weight: bold;
     margin: 100px 0 0 0;
     padding-left: 15%;
-    
+    font-size: xx-large;
 }
 
 .mainpara{
     color: #e5e7eb;
     padding-left: 15%;
-    
-    padding-right: 25%;
+    padding-right: 10%;
     margin: 5px 0 0 0;
+    height: auto;
+    width: 520px;
 }
 
 .headerlinks{
